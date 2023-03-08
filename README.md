@@ -1,2 +1,2 @@
 # University-notes
-Some notes made during my unniversity career.
+Some notes made during my university career.
