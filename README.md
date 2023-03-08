@@ -4,7 +4,7 @@
         <b>University-notes</b>
     </h1>
     <h3>
-        <b>Some notes made during my university career.</b>
+        <b>Una raccolta di appunti presi durante la mia carriera universitaria. Alcuni di questi appunti sono stati realizzati in collaborazione con <a href="https://github.com/GiusTMP">GiusTMP</a>.</b>
     </h3>
 </p>
 
