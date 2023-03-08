@@ -9,13 +9,19 @@
 </p>
 
 <p>
-    <h3 align="center">
-        <b>I semestre</b>
-    </h3>
+    <h2 align = "center">
+        <b>II anno</b>
+    </h2>
+
 </p>
 
 <p align="center">
     <table align="center">
+    <td  align="center" colspan="3">
+        <h3 align="center">
+            <b>I semestre</b>
+        </h3>
+    </td>
     <tr>
         <td align = "center"><strong>Materia</td>
         <td align = "center"><strong>Appunti</td>
@@ -44,18 +50,13 @@
         <td align = "center">-</td>
         <td align = "center">Da pubblicare</td>
     </tr>
-</p>
-
----
-<p>
-    <h3 align="center">
-        <b>II semestre</b>
-    </h3>
-</p>
-
-<p align="center">
-    </table>
-        <table align="center">
+    <tr>
+    </tr>
+    <td  align="center" colspan="3">
+        <h3 align="center">
+            <b>II semestre</b>
+        </h3>
+    </td>
     <tr>
         <td align = "center"><strong>Materia</td>
         <td align = "center"><strong>Appunti</td>
