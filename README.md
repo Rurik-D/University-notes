@@ -10,7 +10,7 @@
 
 <p>
     <h2 align = "center">
-        <font size="5">
+        <font size="6">
             <b>II anno</b>
         </font>
     </h2>
@@ -20,7 +20,7 @@
 <p align="center">
     <table align="center">
     <td  align="center" colspan="3">
-        <font size="4">
+        <font size="5">
             <b>I semestre</b>
         </font>
     </td>
@@ -53,7 +53,7 @@
         <td align = "center">Da pubblicare</td>
     </tr>
     <td  align="center" colspan="3">
-        <font size="4">
+        <font size="5">
             <b>II semestre</b>
         </font>
     </td>
