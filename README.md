@@ -1,12 +1,20 @@
-# University-notes
-Some notes made during my university career.
+
 <p>
-    <h2>
-        <b>Practical Programming Notes (ita):</b>
+    <h1 align = "center">
+        <b>University-notes</b>
+    </h1>
+    <h3>
+        <b>Some notes made during my university career.</b>
+    </h3>
+</p>
+
+<p>
+    <h3 align="center">
+        <b>I semestre</b>
+    </h3>
 </p>
 
 <p align="center">
-    <b>I semestre</b>
     <table align="center">
     <tr>
         <td align = "center"><strong>Materia</td>
@@ -15,13 +23,13 @@ Some notes made during my university career.
     </tr>
     <tr>
         <td align = "center">Sistemi Operativi I</td>
-        <td align = "center"><a style="display:block;" href="https://github.com/Rurik-D/Practical-Programming-Notes/tree/main/Assembly%20(mips)/Appunti"> 
+        <td align = "center"><a style="display:block;" href="https://github.com/Rurik-D/University-notes/raw/main/II%20anno/Sistemi%20Operativi%20I.pdf"> 
             <div> pdf </div> 
         </td>
         <td align = "center">Completi</td>
     <tr>
         <td align = "center">Basi di Dati I</td>
-            <td align = "center"><a style="display:block;" href="https://github.com/Rurik-D/Practical-Programming-Notes/tree/main/Python">
+            <td align = "center"><a style="display:block;" href="https://github.com/Rurik-D/University-notes/raw/main/II%20anno/Basi%20di%20Dati%20I.pdf">
             <div> pdf </div>
         </td>
         <td align = "center">Completi</td>
@@ -38,8 +46,14 @@ Some notes made during my university career.
     </tr>
 </p>
 
+---
+<p>
+    <h3 align="center">
+        <b>II semestre</b>
+    </h3>
+</p>
+
 <p align="center">
-    <b>II semestre</b>
     </table>
         <table align="center">
     <tr>
@@ -48,26 +62,24 @@ Some notes made during my university career.
         <td align = "center"><strong>Stato</td>
     </tr>
     <tr>
-        <td align = "center">Sistemi Operativi I</td>
-        <td align = "center"><a style="display:block;" href="https://github.com/Rurik-D/Practical-Programming-Notes/tree/main/Assembly%20(mips)/Appunti"> 
-            <div> pdf </div> 
-        </td>
-        <td align = "center">Completi</td>
+        <td align = "center">Sistemi Operativi II</td>
+        <td align = "center"> - </td>
+        <td align = "center">Da pubblicare</td>
     <tr>
-        <td align = "center">Basi di Dati I</td>
-            <td align = "center"><a style="display:block;" href="https://github.com/Rurik-D/Practical-Programming-Notes/tree/main/Python">
+        <td align = "center">Basi di Dati II</td>
+            <td align = "center"><a style="display:block;" href="https://github.com/Rurik-D/University-notes/raw/main/II%20anno/Basi%20di%20Dati%20II.pdf">
             <div> pdf </div>
         </td>
-        <td align = "center">Completi</td>
+        <td align = "center">In corso</td>
     </tr>
     <tr>
-        <td align = "center">Calcolo delle Probabilità</td>
-        <td align = "center">-</td>
+        <td align = "center">Progettazione di Algoritmi</td>
+        <td align = "center"> - </td>
         <td align = "center">Da pubblicare</td>
     </tr>
     <tr>
-        <td align = "center">Algebra</td>
-        <td align = "center">-</td>
+        <td align = "center">Reti di Elaboratori</td>
+        <td align = "center"> - </td>
         <td align = "center">Da pubblicare</td>
     </tr>
     </table>
